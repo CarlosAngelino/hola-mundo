@@ -1,4 +1,4 @@
-# Hola Muundo
+# Hola Mundo
 Mi primer repositorio de prueba.
 
 Autor: Carlos Angelino
